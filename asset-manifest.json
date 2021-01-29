@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6a4d57ad.chunk.css",
+    "main.js": "/static/js/main.7d3d05ad.chunk.js",
+    "main.js.map": "/static/js/main.7d3d05ad.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8f49b074.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8f49b074.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c18c36be.chunk.js": "/static/js/2.c18c36be.chunk.js",
+    "static/js/2.c18c36be.chunk.js.map": "/static/js/2.c18c36be.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6a4d57ad.chunk.css.map": "/static/css/main.6a4d57ad.chunk.css.map",
+    "static/js/2.c18c36be.chunk.js.LICENSE.txt": "/static/js/2.c18c36be.chunk.js.LICENSE.txt",
+    "static/media/Alex_tag.79ba7161.png": "/static/media/Alex_tag.79ba7161.png",
+    "static/media/App.css": "/static/media/BACKGROUND_12_28_2020-09.b286a2a1.png",
+    "static/media/Jasmine_tag.dec3b768.png": "/static/media/Jasmine_tag.dec3b768.png",
+    "static/media/Megan_tag.7278f1a5.png": "/static/media/Megan_tag.7278f1a5.png",
+    "static/media/Zach_tag.8ac05c08.png": "/static/media/Zach_tag.8ac05c08.png",
+    "static/media/about-us-banner.261d0293.png": "/static/media/about-us-banner.261d0293.png",
+    "static/media/beliefs-HP.7df20925.png": "/static/media/beliefs-HP.7df20925.png",
+    "static/media/gamer-profiles.b8abe52c.png": "/static/media/gamer-profiles.b8abe52c.png",
+    "static/media/header-HP.6e620697.png": "/static/media/header-HP.6e620697.png",
+    "static/media/history-HP.b6204d0a.png": "/static/media/history-HP.b6204d0a.png",
+    "static/media/mission-HP.062b4178.png": "/static/media/mission-HP.062b4178.png",
+    "static/media/moon-HP.637633b2.png": "/static/media/moon-HP.637633b2.png",
+    "static/media/moon-header-HP.44ba8374.png": "/static/media/moon-header-HP.44ba8374.png",
+    "static/media/planet-HP.25ec7841.png": "/static/media/planet-HP.25ec7841.png",
+    "static/media/testimonials-HP.13628a08.png": "/static/media/testimonials-HP.13628a08.png",
+    "static/media/wsp-logo.c80280be.png": "/static/media/wsp-logo.c80280be.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f49b074.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.c18c36be.chunk.js",
+    "static/css/main.6a4d57ad.chunk.css",
+    "static/js/main.7d3d05ad.chunk.js"
+  ]
+}
